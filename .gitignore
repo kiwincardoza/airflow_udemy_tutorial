@@ -1,0 +1,5 @@
+logs/
+plugins/
+venv/
+dags/__pycache__/
+dags/groups/__pycache__/
